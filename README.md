@@ -3,6 +3,6 @@
 <p><li>The Bill of Materials is <a href="github.com/ge-ep/pinkandwhite/BOM.md" target="_blank">here</a></li>
    <li>The extended build guid is here</li>
    <li>The documentation that comes with the kit is here</li>
-   <li>The schematic is here</li></p>
+   <li>The schematic is <a href="github.com/ge-ep/pinkandwhite/blob/main/Documents/pinkandwhite-schematic.pdf" target="_blank">here</a></li></p>
 <br>
 <p>Thanks!</p>
