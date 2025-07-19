@@ -41,8 +41,8 @@
 
 <ol>
   <li>Start with the three resistors</li>
-  <img src="https://raw.githubusercontent.com/ge-ep/pinkandwhite/main/images/2.jpg" style="width:49%; display:inline-block; vertical-align:top;" alt="Resistance">
-  <img src="https://raw.githubusercontent.com/ge-ep/pinkandwhite/main/images/3.jpg" style="width:49%; display:inline-block; vertical-align:top;" alt="Trimmers">
+  <img src="https://raw.githubusercontent.com/ge-ep/pinkandwhite/main/images/02.jpg" style="width:49%; display:inline-block; vertical-align:top;" alt="Resistance">
+  <img src="https://raw.githubusercontent.com/ge-ep/pinkandwhite/main/images/03.jpg" style="width:49%; display:inline-block; vertical-align:top;" alt="Trimmers">
 
   <li>Then the diode — <i>make sure to match the <b>stripe on the diode</b> with the <b>stripe on the PCB</b></i></li>
   <img src="https://raw.githubusercontent.com/ge-ep/pinkandwhite/main/images/04.jpg" style="width:49%; display:inline-block; vertical-align:top;" alt="Diodes, baybeee">
