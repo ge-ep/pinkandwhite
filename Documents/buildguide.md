@@ -35,7 +35,7 @@
 
 <h2>Part 0: Gather Ye Together Yon Components and Hear My Tale</h2>
 <p>Start by gathering together all your stuff — your tools, all the components — and make sure you aren't missing anything. It also helps to have a clean work surface.</p>
-
+<img src="https://raw.githubusercontent.com/ge-ep/pinkandwhite/main/images/01.jpg" style="width:49%; display:inline-block; vertical-align:top;" alt="The parts">
 <h2>Part 1: Let the Soldering ..... COMMENCE!</h2>
 <p>Generally, the rule with soldering PCBs is <i>low to high</i>, so we start with the components that lay flattest against the PCB and work our way up. So, with that in mind:</p>
 
